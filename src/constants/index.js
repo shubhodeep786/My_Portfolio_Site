@@ -146,23 +146,23 @@ const technologies = [
     name: "Spring",
     icon: spring,
   },
-  {
+  /* {
     name: "Springboot",
     icon: springboot,
-  },
+  }, */
   /* {
     name: "Hibernate",
     icon: hibernets,
   }, */
   //DataBases
-  {
+  /* {
     name: "MongoDB",
     icon: mongodb,
   },
   {
     name: "Postgres",
     icon: postgres,
-  },
+  }, */
   /* {
     name: "Three JS",
     icon: threejs,
