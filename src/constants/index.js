@@ -73,10 +73,10 @@ const services = [
 const technologies = [
   //Problem Solving
   //1
-  {
+ /*  {
     name: "Data Structures & Algorithms",
     icon: dsa,
-  },
+  }, */
   //Languages
   //2
   {
@@ -105,7 +105,7 @@ const technologies = [
   },
   //7
   //Front-End
-  {
+  /* {
     name: "HTML 5",
     icon: html,
   },
@@ -113,7 +113,7 @@ const technologies = [
   {
     name: "CSS 3",
     icon: css,
-  },
+  }, */
   //9
   {
     name: "React JS",
@@ -121,19 +121,19 @@ const technologies = [
   },
   //10
   //Front-End Frameworks
-  {
+  /* {
     name: "Next js",
     icon: nextjs,
   },
   {
     name: "Reduxjs",
     icon: redux,
-  },
+  }, */
   //Backend-Technologies
-  {
+  /* {
     name: "Node JS",
     icon: nodejs,
-  },
+  }, */
   {
     name: "Express Js",
     icon: express,
@@ -150,10 +150,10 @@ const technologies = [
     name: "Springboot",
     icon: springboot,
   },
-  {
+  /* {
     name: "Hibernate",
     icon: hibernets,
-  },
+  }, */
   //DataBases
   {
     name: "MongoDB",
@@ -168,20 +168,20 @@ const technologies = [
     icon: threejs,
   }, */
   //Web3 Libraries
-  {
+  /* {
     name: "Ethers Js",
     icon: Ethersjs,
-  },
+  }, */
   //Microservices
-  {
+/*   {
     name: "Rabbitmq",
     icon: rabbitmq,
-  },
+  }, */
   //Devops-Tools
-  {
+ /*  {
     name: "Jenkins",
     icon: jenkins,
-  },
+  }, */
   {
     name: "git",
     icon: git,
